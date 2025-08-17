@@ -8,7 +8,7 @@ import starlightThemeNova  from 'starlight-theme-nova';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://b17314.github.io',
-	base: '/eg-bim_guide/ko/',
+	base: '/eg-bim_guide',
 	integrations: [
 		starlight({
 			title: '',
