@@ -24,6 +24,13 @@ export default defineConfig({
 					lang:'ko-KR'
 				},
 			},
+			social: [
+				{
+					icon: 'seti:info',
+					label: 'EG-BIM HOME',
+					href: 'https://eg-bim.co.kr',
+				},
+			],
 			sidebar:[
 				{
 					label: 'EG-BIM 시작하기',
