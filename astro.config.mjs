@@ -37,6 +37,10 @@ export default defineConfig({
 					autogenerate: { directory: 'guides' },
 				},
 				{
+					label: '기본 기능',
+					autogenerate: { directory: 'BasicFeatures' },
+				},
+				{
 					label: '명령어',
 					items:[
 						{
@@ -47,9 +51,10 @@ export default defineConfig({
 			],
 			plugins: [
 				starlightThemeNova({
-					nav: [
-						{ label: 'Go EG-BIM Home', href:'https://eg-bim.co.kr' }
-					]
+					
+					// nav: [
+					// 	{ label: 'Go EG-BIM Home', href:'https://eg-bim.co.kr' }
+					// ]
 				})
 			],
 			customCss: [
