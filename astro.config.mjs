@@ -44,8 +44,12 @@ export default defineConfig({
 					label: '명령어',
 					items:[
 						{
-							label: '명령어 전체보기',
-							autogenerate: {directory: '/commands/commandWindow'}
+							label: '시스템',
+							autogenerate: {directory: '/commands/system'}
+						},
+						{
+							label: '도형',
+							autogenerate: {directory: '/commands/geometry'}
 						}],
 				},
 			],
