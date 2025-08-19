@@ -1,0 +1,16 @@
+---
+const { frontmatter } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content={`0;url=${frontmatter.redirect}`}>
+    <title>{frontmatter.title}</title>
+    <link rel="canonical" href={frontmatter.redirect} />
+</head>
+<body>
+    <h1>{frontmatter.title}</h1>
+    <p>자동으로 이동되지 않으면 <a href={frontmatter.redirect}>이 링크</a>를 클릭해주세요.</p>
+</body>
+</html>
