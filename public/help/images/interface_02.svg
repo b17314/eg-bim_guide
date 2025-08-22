@@ -1,0 +1,3762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg2"
+   width="1855"
+   height="1151"
+   viewBox="0 0 1855 1151"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,2.4414e-4 H 1391.25 V 863.25024 H 0 Z"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <path
+         d="M 7.629e-6,3.6621e-4 H 1391.25 V 863.25037 H 7.629e-6 Z"
+         clip-rule="evenodd"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath38">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path36" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath50">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path48" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path60" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath74">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path72" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath86">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path84" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path96" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath110">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath122">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path120" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path138" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath152">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath164">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path162" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath176">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path174" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath188">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path186" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath200">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path198" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath212">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath224">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path222" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath236">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path234" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath248">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path246" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath260">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path258" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath272">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path270" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath284">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path282" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath296">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path294" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath308">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path306" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath320">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path318" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath332">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path330" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath344">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path342" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath356">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path354" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath368">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path366" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath380">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path378" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath392">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path390" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath404">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path402" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath416">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path414" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath428">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path426" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath440">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path438" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath452">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path450" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath464">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path462" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath476">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath492">
+      <path
+         d="M 0,863.25 H 1391.25 V 6.1035e-5 L -7.629e-6,1.2207e-4"
+         clip-rule="evenodd"
+         id="path490" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath530">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path528" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath542">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path540" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath554">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path552" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath566">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path564" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath578">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path576" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath590">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path588" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath602">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path600" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath614">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path612" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath626">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path624" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath638">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path636" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath650">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path648" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath662">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path660" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath674">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path672" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath686">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path684" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath698">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path696" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath710">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path708" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath722">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path720" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath734">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path732" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath746">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path744" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath758">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path756" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath770">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path768" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath782">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path780" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath794">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path792" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath806">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path804" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath818">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path816" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath830">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path828" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath842">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path840" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath864">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path862" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath876">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path874" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath888">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path886" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath900">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path898" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath912">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path910" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath924">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path922" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath936">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path934" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath948">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path946" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath960">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path958" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath972">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path970" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath984">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path982" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath996">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path994" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1008">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1006" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1034">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1032" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1046">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1044" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1058">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1056" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1074">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1072" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1086">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1084" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1098">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1096" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1110">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1122">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1120" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1134">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1132" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1146">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1144" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1158">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1156" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1170">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1168" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1182">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1180" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1194">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1192" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1206">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1204" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1218">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1216" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1230">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1228" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1242">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1240" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1254">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1252" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1266">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1264" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1278">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1276" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1290">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1288" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1302">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1300" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1314">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1312" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1326">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1324" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1338">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1336" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1350">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1348" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1362">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1360" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1374">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1372" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1386">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1384" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1398">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1396" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1410">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1408" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1422">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1420" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1434">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1432" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1446">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1444" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1458">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1456" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1470">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1468" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1482">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1480" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1494">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1492" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1520">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1518" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1532">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1530" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1544">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1542" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1556">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1554" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1568">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1566" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1580">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1578" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1592">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1590" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1604">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1602" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1616">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1614" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1628">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1626" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1640">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1638" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1652">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1650" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1664">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1662" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1676">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1674" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1688">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1686" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1700">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1698" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1712">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1710" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1724">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1722" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1736">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1734" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1748">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1746" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1760">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1758" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1772">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1770" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1784">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1782" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1796">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1794" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1808">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1806" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1820">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1818" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1832">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1830" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1848">
+      <path
+         d="M 0,863.25 H 1391.25 V 6.1035e-5 L 1.2207e-4,1.2207e-4"
+         clip-rule="evenodd"
+         id="path1846" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1866">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1864" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1886">
+      <path
+         d="M -3.0518e-5,863.25 H 1391.25 V 6.1035e-5 L -3.0518e-5,1.2207e-4"
+         clip-rule="evenodd"
+         id="path1884" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1896">
+      <path
+         d="M -3.0518e-5,863.25 H 1391.25 V 6.1035e-5 L -3.0518e-5,1.2207e-4"
+         clip-rule="evenodd"
+         id="path1894" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1910">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1908" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1926">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1924" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1942">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1940" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1954">
+      <path
+         d="M 2.0731e-5,0 H 1391.25 V 863.25 H 2.0731e-5 Z"
+         clip-rule="evenodd"
+         id="path1952" />
+    </clipPath>
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1151)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <path
+           d="M 0,6.1035e-5 H 1391.25 V 863.25006 H 0 Z"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path18" />
+      </g>
+    </g>
+    <g
+       id="g20">
+      <g
+         id="g22"
+         clip-path="url(#clipPath26)">
+        <g
+           id="g28"
+           transform="matrix(201,0,0,88.5,126,419.25)">
+          <image
+             width="1"
+             height="1"
+             style="image-rendering:optimizeSpeed"
+             preserveAspectRatio="none"
+             transform="matrix(1,0,0,-1,0,1)"
+             xlink:href="data:image/png;base64,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"
+             id="image30" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g32">
+      <g
+         id="g34"
+         clip-path="url(#clipPath38)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,21.075,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text42"><tspan
+             x="0 23.275 46.549999 69.824997"
+             y="0"
+             id="tspan40">파일관련</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g44">
+      <g
+         id="g46"
+         clip-path="url(#clipPath50)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,120.87,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text54"><tspan
+             x="0 23.275 46.549999 69.824997"
+             y="0"
+             id="tspan52">기본기능</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g56">
+      <g
+         id="g58"
+         clip-path="url(#clipPath62)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,221.45,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0"
+             y="0"
+             id="tspan64">및</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g68">
+      <g
+         id="g70"
+         clip-path="url(#clipPath74)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,252.2,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 23.275 46.549999"
+             y="0"
+             id="tspan76">사용자</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g80">
+      <g
+         id="g82"
+         clip-path="url(#clipPath86)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,329.5,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 23.25"
+             y="0"
+             id="tspan88">설정</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g92">
+      <g
+         id="g94"
+         clip-path="url(#clipPath98)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,376.02,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0"
+             y="0"
+             id="tspan100">에</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g104">
+      <g
+         id="g106"
+         clip-path="url(#clipPath110)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,406.8,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 23.25"
+             y="0"
+             id="tspan112">관한</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g116">
+      <g
+         id="g118"
+         clip-path="url(#clipPath122)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,460.83,818.45)"
+           style="font-variant:normal;font-weight:bold;font-size:23.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 23.25"
+             y="0"
+             id="tspan124">기능</tspan></text>
+      </g>
+    </g>
+    <path
+       d="M 58.5,585.75 H 374.25 V 651 H 58.5 Z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path128" />
+    <g
+       id="g130">
+      <path
+         d="m 58.875,586.12 h 315.75 v 65.25 H 58.875 Z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.2522, 0.75075;stroke-dashoffset:0;stroke-opacity:1"
+         id="path132" />
+    </g>
+    <g
+       id="g134">
+      <g
+         id="g136"
+         clip-path="url(#clipPath140)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,128.22,560.95)"
+           style="font-variant:normal;font-weight:bold;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan142">저장</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g146">
+      <g
+         id="g148"
+         clip-path="url(#clipPath152)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,153.75,560.95)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 2.2502251"
+             y="0"
+             id="tspan154">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g158">
+      <g
+         id="g160"
+         clip-path="url(#clipPath164)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,160.5,560.95)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan166">현재</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g170">
+      <g
+         id="g172"
+         clip-path="url(#clipPath176)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,186.03,560.95)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan178">작업</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g182">
+      <g
+         id="g184"
+         clip-path="url(#clipPath188)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,212.27,560.95)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan190">중인</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g194">
+      <g
+         id="g196"
+         clip-path="url(#clipPath200)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,237.8,560.95)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan202">내용을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g206">
+      <g
+         id="g208"
+         clip-path="url(#clipPath212)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,274.58,560.95)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan214">저장</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g218">
+      <g
+         id="g220"
+         clip-path="url(#clipPath224)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,128.22,537.68)"
+           style="font-variant:normal;font-weight:bold;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan226">복사저장</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g230">
+      <g
+         id="g232"
+         clip-path="url(#clipPath236)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,176.27,537.68)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text240"><tspan
+             x="0 2.2502251"
+             y="0"
+             id="tspan238">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g242">
+      <g
+         id="g244"
+         clip-path="url(#clipPath248)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,182.27,537.68)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text252"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan250">다른</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g254">
+      <g
+         id="g256"
+         clip-path="url(#clipPath260)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,208.53,537.68)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text264"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan262">이름으로</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g266">
+      <g
+         id="g268"
+         clip-path="url(#clipPath272)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,255.8,537.68)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text276"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan274">파일을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g278">
+      <g
+         id="g280"
+         clip-path="url(#clipPath284)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,293.33,537.68)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text288"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan286">복사하여</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g290">
+      <g
+         id="g292"
+         clip-path="url(#clipPath296)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,340.6,537.68)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text300"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan298">저장</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g302">
+      <g
+         id="g304"
+         clip-path="url(#clipPath308)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,128.22,515.15)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text312"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan310">내보내기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g314">
+      <g
+         id="g316"
+         clip-path="url(#clipPath320)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,176.27,515.15)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text324"><tspan
+             x="0 2.25 5.9962502 12.7575 19.49625 23.231251 25.481251"
+             y="0"
+             id="tspan322">: pdf, </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g326">
+      <g
+         id="g328"
+         clip-path="url(#clipPath332)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,205.52,515.15)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text336"><tspan
+             x="0 4.5 9.7537498"
+             y="0"
+             id="tspan334">svg</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g338">
+      <g
+         id="g340"
+         clip-path="url(#clipPath344)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,225.8,515.15)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text348"><tspan
+             x="0"
+             y="0"
+             id="tspan346">등</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g350">
+      <g
+         id="g352"
+         clip-path="url(#clipPath356)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,240.8,515.15)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text360"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan358">다른</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g362">
+      <g
+         id="g364"
+         clip-path="url(#clipPath368)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,267.05,515.15)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text372"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan370">형식으로</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g374">
+      <g
+         id="g376"
+         clip-path="url(#clipPath380)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,314.32,515.15)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text384"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan382">내보내기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g386">
+      <g
+         id="g388"
+         clip-path="url(#clipPath392)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,128.22,399.55)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text396"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan394">도면묶기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g398">
+      <g
+         id="g400"
+         clip-path="url(#clipPath404)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,176.27,399.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text408"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan406">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g410">
+      <g
+         id="g412"
+         clip-path="url(#clipPath416)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,182.27,399.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text420"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan418">외부참조</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g422">
+      <g
+         id="g424"
+         clip-path="url(#clipPath428)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,230.3,399.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text432"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan430">파일과</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g434">
+      <g
+         id="g436"
+         clip-path="url(#clipPath440)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,267.05,399.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text444"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan442">도면을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g446">
+      <g
+         id="g448"
+         clip-path="url(#clipPath452)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,303.83,399.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text456"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan454">묶어</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g458">
+      <g
+         id="g460"
+         clip-path="url(#clipPath464)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,182.27,386.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text468"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan466">패기지로</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g470">
+      <g
+         id="g472"
+         clip-path="url(#clipPath476)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,230.3,386.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text480"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan478">만들기</tspan></text>
+      </g>
+    </g>
+    <path
+       d="M 116.63,368.62 H 231.59"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path482" />
+    <path
+       d="m 112.99,372.4 -0.11,216.72"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path484" />
+    <g
+       id="g486">
+      <g
+         id="g488"
+         clip-path="url(#clipPath492)">
+        <path
+           d="m 116.63,368.62 c -2.08,0 -3.75,1.68 -3.75,3.75"
+           style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path494" />
+      </g>
+    </g>
+    <path
+       d="m 109.88,586.13 c 0,1.65 1.34,3 3,3 1.65,0 3,-1.35 3,-3 0,-1.66 -1.35,-3 -3,-3 -1.66,0 -3,1.34 -3,3 z"
+       style="fill:#c00000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path496" />
+    <path
+       d="m 109.88,586.13 c 0,1.65 1.34,3 3,3 1.65,0 3,-1.35 3,-3 0,-1.66 -1.35,-3 -3,-3 -1.66,0 -3,1.34 -3,3 z"
+       style="fill:none;stroke:#000000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path498" />
+    <path
+       d="M 388.5,585.75 H 624.75 V 651 H 388.5 Z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path500" />
+    <g
+       id="g502">
+      <path
+         d="m 388.88,586.12 h 236.25 v 65.25 H 388.88 Z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.2522, 0.75075;stroke-dashoffset:0;stroke-opacity:1"
+         id="path504" />
+    </g>
+    <path
+       d="m 645.75,585.75 h 157.5 V 651 h -157.5 z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path506" />
+    <g
+       id="g508">
+      <path
+         d="m 646.13,586.12 h 157.5 v 65.25 h -157.5 z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.2522, 0.75075;stroke-dashoffset:0;stroke-opacity:1"
+         id="path510" />
+    </g>
+    <path
+       d="m 816.75,585.75 h 235.5 V 651 h -235.5 z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path512" />
+    <g
+       id="g514">
+      <path
+         d="m 817.13,586.12 h 235.5 v 65.25 h -235.5 z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.2522, 0.75075;stroke-dashoffset:0;stroke-opacity:1"
+         id="path516" />
+    </g>
+    <path
+       d="m 1070.25,585.75 h 235.5 V 651 h -235.5 z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path518" />
+    <g
+       id="g520">
+      <path
+         d="m 1070.63,586.12 h 235.5 v 65.25 h -235.5 z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.2522, 0.75075;stroke-dashoffset:0;stroke-opacity:1"
+         id="path522" />
+    </g>
+    <g
+       id="g524">
+      <g
+         id="g526"
+         clip-path="url(#clipPath530)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,417.48,714.58)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text534"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan532">찾아열기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g536">
+      <g
+         id="g538"
+         clip-path="url(#clipPath542)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,465.5,714.58)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text546"><tspan
+             x="0 2.2725 6.0524998 12.81375 20.328751"
+             y="0"
+             id="tspan544">: PC </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g548">
+      <g
+         id="g550"
+         clip-path="url(#clipPath554)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,488.78,714.58)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text558"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan556">또는</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g560">
+      <g
+         id="g562"
+         clip-path="url(#clipPath566)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,514.3,714.58)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text570"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan568">네트워크</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g572">
+      <g
+         id="g574"
+         clip-path="url(#clipPath578)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,562.33,714.58)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text582"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan580">경로에서</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g584">
+      <g
+         id="g586"
+         clip-path="url(#clipPath590)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,610.35,714.58)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text594"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan592">저장된</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g596">
+      <g
+         id="g598"
+         clip-path="url(#clipPath602)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,471.52,698.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text606"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan604">파일을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g608">
+      <g
+         id="g610"
+         clip-path="url(#clipPath614)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,508.27,698.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text618"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan616">찾아</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g620">
+      <g
+         id="g622"
+         clip-path="url(#clipPath626)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,534.55,698.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text630"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan628">직접</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g632">
+      <g
+         id="g634"
+         clip-path="url(#clipPath638)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,560.05,698.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text642"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan640">선택하여</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g644">
+      <g
+         id="g646"
+         clip-path="url(#clipPath650)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,608.1,698.8)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text654"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan652">열기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g656">
+      <g
+         id="g658"
+         clip-path="url(#clipPath662)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,417.48,683.05)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text666"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan664">최근파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g668">
+      <g
+         id="g670"
+         clip-path="url(#clipPath674)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,465.5,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text678"><tspan
+             x="0 2.27475"
+             y="0"
+             id="tspan676">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g680">
+      <g
+         id="g682"
+         clip-path="url(#clipPath686)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,471.52,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text690"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan688">최근</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g692">
+      <g
+         id="g694"
+         clip-path="url(#clipPath698)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,497.78,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text702"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan700">작업파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g704">
+      <g
+         id="g706"
+         clip-path="url(#clipPath710)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,545.05,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text714"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan712">표시</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g716">
+      <g
+         id="g718"
+         clip-path="url(#clipPath722)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,567.58,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text726"><tspan
+             x="0"
+             y="0"
+             id="tspan724">(</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g728">
+      <g
+         id="g730"
+         clip-path="url(#clipPath734)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,571.33,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text738"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan736">최대</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g740">
+      <g
+         id="g742"
+         clip-path="url(#clipPath746)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,593.82,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text750"><tspan
+             x="0 5.9997501"
+             y="0"
+             id="tspan748">10</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g752">
+      <g
+         id="g754"
+         clip-path="url(#clipPath758)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,605.83,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text762"><tspan
+             x="0"
+             y="0"
+             id="tspan760">개</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g764">
+      <g
+         id="g766"
+         clip-path="url(#clipPath770)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,617.1,683.05)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text774"><tspan
+             x="0"
+             y="0"
+             id="tspan772">)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g776">
+      <g
+         id="g778"
+         clip-path="url(#clipPath782)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,417.48,667.28)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text786"><tspan
+             x="0"
+             y="0"
+             id="tspan784">새</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g788">
+      <g
+         id="g790"
+         clip-path="url(#clipPath794)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,436.25,667.28)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text798"><tspan
+             x="0"
+             y="0"
+             id="tspan796">파</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g800">
+      <g
+         id="g802"
+         clip-path="url(#clipPath806)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,451.25,667.28)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text810"><tspan
+             x="0"
+             y="0"
+             id="tspan808">일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g812">
+      <g
+         id="g814"
+         clip-path="url(#clipPath818)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,466.28,667.28)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text822"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan820">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g824">
+      <g
+         id="g826"
+         clip-path="url(#clipPath830)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,472.27,667.28)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text834"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan832">새파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g836">
+      <g
+         id="g838"
+         clip-path="url(#clipPath842)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,509.03,667.28)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text846"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan844">생성</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 407.63,744.38 108.3,-0.01"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path848" />
+    <path
+       d="m 404.63,741.38 c 0,1.65 1.34,3 3,3"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path850" />
+    <path
+       d="m 404.63,654.24 v 87.13"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path852" />
+    <path
+       d="m 407.63,650.62 c 0,1.66 -1.35,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.65 1.34,-3 3,-3 1.65,0 3,1.35 3,3 z"
+       style="fill:#c00000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path854" />
+    <path
+       d="m 407.63,650.62 c 0,1.66 -1.35,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.65 1.34,-3 3,-3 1.65,0 3,1.35 3,3 z"
+       style="fill:none;stroke:#000000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path856" />
+    <g
+       id="g858">
+      <g
+         id="g860"
+         clip-path="url(#clipPath864)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,665.75,716.5)"
+           style="font-variant:normal;font-weight:bold;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text868"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan866">복구하기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g870">
+      <g
+         id="g872"
+         clip-path="url(#clipPath876)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,713.78,716.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text880"><tspan
+             x="0 2.2502251"
+             y="0"
+             id="tspan878">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g882">
+      <g
+         id="g884"
+         clip-path="url(#clipPath888)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,719.77,716.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text892"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan890">손상된</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g894">
+      <g
+         id="g896"
+         clip-path="url(#clipPath900)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,756.55,716.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text904"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan902">도면</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g906">
+      <g
+         id="g908"
+         clip-path="url(#clipPath912)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,782.82,716.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text916"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan914">파일을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g918">
+      <g
+         id="g920"
+         clip-path="url(#clipPath924)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,819.58,716.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text928"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan926">복구</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g930">
+      <g
+         id="g932"
+         clip-path="url(#clipPath936)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,665.75,700.72)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text940"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan938">임시파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g942">
+      <g
+         id="g944"
+         clip-path="url(#clipPath948)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,713.78,700.72)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text952"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan950">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g954">
+      <g
+         id="g956"
+         clip-path="url(#clipPath960)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,719.77,700.72)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text964"><tspan
+             x="0 11.275 22.549999 33.825001 45.099998 56.375"
+             y="0"
+             id="tspan962">자동저장되는</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g966">
+      <g
+         id="g968"
+         clip-path="url(#clipPath972)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,789.57,700.72)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text976"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan974">임시</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g978">
+      <g
+         id="g980"
+         clip-path="url(#clipPath984)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,815.83,700.72)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text988"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan986">파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g990">
+      <g
+         id="g992"
+         clip-path="url(#clipPath996)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,719.77,684.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1000"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan998">폴더</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1002">
+      <g
+         id="g1004"
+         clip-path="url(#clipPath1008)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,746.05,684.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1012"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1010">바로가기</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 649.13,650.25 c 0,2.28 1.84,4.12 4.12,4.12 2.28,0 4.13,-1.84 4.13,-4.12 0,-2.28 -1.85,-4.13 -4.13,-4.13 -2.28,0 -4.12,1.85 -4.12,4.13 z"
+       style="fill:#c00000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1014" />
+    <path
+       d="m 649.13,650.25 c 0,2.28 1.84,4.12 4.12,4.12 2.28,0 4.13,-1.84 4.13,-4.12 0,-2.28 -1.85,-4.13 -4.13,-4.13 -2.28,0 -4.12,1.85 -4.12,4.13 z"
+       style="fill:none;stroke:#000000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1016" />
+    <path
+       d="m 655.88,744.38 75.7,-0.01"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1018" />
+    <path
+       d="m 652.88,742.13 c 0,1.24 1.34,2.25 3,2.25"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1020" />
+    <path
+       d="m 652.88,654.99 v 87.13"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1022" />
+    <path
+       d="m 731.63,745.13 c 0,6.21 5.03,11.25 11.25,11.25 h 72.75 c 6.21,0 11.25,-5.04 11.25,-11.25 v 0 c 0,-6.22 -5.04,-11.25 -11.25,-11.25 h -72.75 c -6.22,0 -11.25,5.03 -11.25,11.25 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1024" />
+    <path
+       d="m 731.63,745.13 c 0,6.21 5.03,11.25 11.25,11.25 h 72.75 c 6.21,0 11.25,-5.04 11.25,-11.25 v 0 c 0,-6.22 -5.04,-11.25 -11.25,-11.25 h -72.75 c -6.22,0 -11.25,5.03 -11.25,11.25 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1026" />
+    <g
+       id="g1028">
+      <g
+         id="g1030"
+         clip-path="url(#clipPath1034)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,742.32,739.9)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1038"><tspan
+             x="0 12.75"
+             y="0"
+             id="tspan1036">파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1040">
+      <g
+         id="g1042"
+         clip-path="url(#clipPath1046)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,773.1,739.9)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1050"><tspan
+             x="0 12.75"
+             y="0"
+             id="tspan1048">손상</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1052">
+      <g
+         id="g1054"
+         clip-path="url(#clipPath1058)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,803.85,739.9)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1062"><tspan
+             x="0"
+             y="0"
+             id="tspan1060">시</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 994.88,763.12 c 0,6.22 5.03,11.25 11.25,11.25 h 73.5 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.25 -11.25,-11.25 h -73.5 c -6.22,0 -11.25,5.04 -11.25,11.25 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1064" />
+    <path
+       d="m 994.88,763.12 c 0,6.22 5.03,11.25 11.25,11.25 h 73.5 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.25 -11.25,-11.25 h -73.5 c -6.22,0 -11.25,5.04 -11.25,11.25 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1066" />
+    <g
+       id="g1068">
+      <g
+         id="g1070"
+         clip-path="url(#clipPath1074)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1008.15,758.17)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1078"><tspan
+             x="0 12.75 25.5"
+             y="0"
+             id="tspan1076">사용자</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1080">
+      <g
+         id="g1082"
+         clip-path="url(#clipPath1086)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1051.67,758.17)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1090"><tspan
+             x="0 12.75"
+             y="0"
+             id="tspan1088">설정</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1092">
+      <g
+         id="g1094"
+         clip-path="url(#clipPath1098)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,868.83,732.83)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1102"><tspan
+             x="0 8.2462502 11.25 16.4925 23.2425 26.24625 32.2425 38.272499 47.981251 58.477501 65.227501 71.977501"
+             y="0"
+             id="tspan1100">Display&amp;Mous</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1104">
+      <g
+         id="g1106"
+         clip-path="url(#clipPath1110)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,949.85,732.83)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1114"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan1112">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1116">
+      <g
+         id="g1118"
+         clip-path="url(#clipPath1122)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,955.85,732.83)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1126"><tspan
+             x="0 11.275 22.549999 33.825001 45.099998"
+             y="0"
+             id="tspan1124">디스플레이</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1128">
+      <g
+         id="g1130"
+         clip-path="url(#clipPath1134)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1014.4,732.83)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1138"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1136">환경</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1140">
+      <g
+         id="g1142"
+         clip-path="url(#clipPath1146)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1040.65,732.83)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1150"><tspan
+             x="0"
+             y="0"
+             id="tspan1148">및</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1152">
+      <g
+         id="g1154"
+         clip-path="url(#clipPath1158)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1055.68,732.83)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1162"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1160">마우스</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1164">
+      <g
+         id="g1166"
+         clip-path="url(#clipPath1170)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1092.43,732.83)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1174"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan1172">동작</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1176">
+      <g
+         id="g1178"
+         clip-path="url(#clipPath1182)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,958.13,717.08)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1186"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1184">설정을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1188">
+      <g
+         id="g1190"
+         clip-path="url(#clipPath1194)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,994.88,717.08)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1198"><tspan
+             x="0 11.275"
+             y="0"
+             id="tspan1196">조절</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1200">
+      <g
+         id="g1202"
+         clip-path="url(#clipPath1206)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,868.83,701.3)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1210"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1208">저장하기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1212">
+      <g
+         id="g1214"
+         clip-path="url(#clipPath1218)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,916.85,701.3)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1222"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan1220">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1224">
+      <g
+         id="g1226"
+         clip-path="url(#clipPath1230)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,922.85,701.3)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1234"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1232">현재</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1236">
+      <g
+         id="g1238"
+         clip-path="url(#clipPath1242)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,949.1,701.3)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1246"><tspan
+             x="0 11.275 22.549999 33.825001"
+             y="0"
+             id="tspan1244">사용자가</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1248">
+      <g
+         id="g1250"
+         clip-path="url(#clipPath1254)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,996.38,701.3)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1258"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan1256">설정한</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1260">
+      <g
+         id="g1262"
+         clip-path="url(#clipPath1266)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1033.9,701.3)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1270"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1268">환경값</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1272">
+      <g
+         id="g1274"
+         clip-path="url(#clipPath1278)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,922.85,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1282"><tspan
+             x="0"
+             y="0"
+             id="tspan1280">(</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1284">
+      <g
+         id="g1286"
+         clip-path="url(#clipPath1290)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,926.6,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1294"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1292">화면</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1296">
+      <g
+         id="g1298"
+         clip-path="url(#clipPath1302)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,949.1,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1306"><tspan
+             x="0 2.2502251"
+             y="0"
+             id="tspan1304">, </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1308">
+      <g
+         id="g1310"
+         clip-path="url(#clipPath1314)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,954.35,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1318"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan1316">마우스</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1320">
+      <g
+         id="g1322"
+         clip-path="url(#clipPath1326)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,988.13,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1330"><tspan
+             x="0 2.2502251"
+             y="0"
+             id="tspan1328">, </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1332">
+      <g
+         id="g1334"
+         clip-path="url(#clipPath1338)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,994.13,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1342"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan1340">단축키</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1344">
+      <g
+         id="g1346"
+         clip-path="url(#clipPath1350)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1030.9,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1354"><tspan
+             x="0"
+             y="0"
+             id="tspan1352">등</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1356">
+      <g
+         id="g1358"
+         clip-path="url(#clipPath1362)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1042.15,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1366"><tspan
+             x="0"
+             y="0"
+             id="tspan1364">)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1368">
+      <g
+         id="g1370"
+         clip-path="url(#clipPath1374)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1045.9,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1378"><tspan
+             x="0"
+             y="0"
+             id="tspan1376">을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1380">
+      <g
+         id="g1382"
+         clip-path="url(#clipPath1386)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1060.18,685.55)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1390"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1388">저장</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1392">
+      <g
+         id="g1394"
+         clip-path="url(#clipPath1398)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,868.83,669.78)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1402"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1400">불러오기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1404">
+      <g
+         id="g1406"
+         clip-path="url(#clipPath1410)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,916.85,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1414"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan1412">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1416">
+      <g
+         id="g1418"
+         clip-path="url(#clipPath1422)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,922.85,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1426"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1424">이전에</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1428">
+      <g
+         id="g1430"
+         clip-path="url(#clipPath1434)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,959.63,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1438"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1436">저장한</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1440">
+      <g
+         id="g1442"
+         clip-path="url(#clipPath1446)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,996.38,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1450"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan1448">사용자</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1452">
+      <g
+         id="g1454"
+         clip-path="url(#clipPath1458)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1033.9,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1462"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1460">설정</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1464">
+      <g
+         id="g1466"
+         clip-path="url(#clipPath1470)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1059.43,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1474"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1472">값을</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1476">
+      <g
+         id="g1478"
+         clip-path="url(#clipPath1482)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1085.68,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1486"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1484">불러와</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1488">
+      <g
+         id="g1490"
+         clip-path="url(#clipPath1494)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1122.45,669.78)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1498"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1496">적용</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 858.38,762.38 136.59,-0.01"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1500" />
+    <path
+       d="m 855.38,760.13 c 0,1.24 1.34,2.25 3,2.25"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1502" />
+    <path
+       d="m 855.5,654.15 -0.12,105.97"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1504" />
+    <path
+       d="m 851.63,649.87 c 0,2.08 1.84,3.75 4.12,3.75 2.28,0 4.13,-1.67 4.13,-3.75 0,-2.07 -1.85,-3.75 -4.13,-3.75 -2.28,0 -4.12,1.68 -4.12,3.75 z"
+       style="fill:#c00000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1506" />
+    <path
+       d="m 851.63,649.87 c 0,2.08 1.84,3.75 4.12,3.75 2.28,0 4.13,-1.67 4.13,-3.75 0,-2.07 -1.85,-3.75 -4.13,-3.75 -2.28,0 -4.12,1.68 -4.12,3.75 z"
+       style="fill:none;stroke:#000000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1508" />
+    <path
+       d="m 231.38,368.62 c 0,6.22 5.03,11.25 11.25,11.25 h 75.75 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.25 -11.25,-11.25 h -75.75 c -6.22,0 -11.25,5.04 -11.25,11.25 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1510" />
+    <path
+       d="m 231.38,368.62 c 0,6.22 5.03,11.25 11.25,11.25 h 75.75 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.25 -11.25,-11.25 h -75.75 c -6.22,0 -11.25,5.04 -11.25,11.25 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1512" />
+    <g
+       id="g1514">
+      <g
+         id="g1516"
+         clip-path="url(#clipPath1520)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,239.08,363.33)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1524"><tspan
+             x="0 12.75 25.5 38.25"
+             y="0"
+             id="tspan1522">작업중인</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1526">
+      <g
+         id="g1528"
+         clip-path="url(#clipPath1532)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,295.35,363.33)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1536"><tspan
+             x="0 12.75"
+             y="0"
+             id="tspan1534">파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1538">
+      <g
+         id="g1540"
+         clip-path="url(#clipPath1544)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1096.63,553.5)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1548"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1546">설명보기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1550">
+      <g
+         id="g1552"
+         clip-path="url(#clipPath1556)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1144.65,553.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1560"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan1558">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1562">
+      <g
+         id="g1564"
+         clip-path="url(#clipPath1568)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1150.65,553.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1572"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1570">프로그램</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1574">
+      <g
+         id="g1576"
+         clip-path="url(#clipPath1580)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1198.68,553.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1584"><tspan
+             x="0 11.25 22.5 33.75 45"
+             y="0"
+             id="tspan1582">이용가이드</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1586">
+      <g
+         id="g1588"
+         clip-path="url(#clipPath1592)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1257.2,553.5)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1596"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1594">보기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1598">
+      <g
+         id="g1600"
+         clip-path="url(#clipPath1604)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1096.63,537.75)"
+           style="font-variant:normal;font-weight:bold;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1608"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1606">문의하기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1610">
+      <g
+         id="g1612"
+         clip-path="url(#clipPath1616)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1144.65,537.75)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1620"><tspan
+             x="0 2.2502251"
+             y="0"
+             id="tspan1618">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1622">
+      <g
+         id="g1624"
+         clip-path="url(#clipPath1628)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1150.65,537.75)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1632"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1630">홈페이지</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1634">
+      <g
+         id="g1636"
+         clip-path="url(#clipPath1640)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1198.68,537.75)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1644"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1642">문의하기</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1646">
+      <g
+         id="g1648"
+         clip-path="url(#clipPath1652)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1246.7,537.75)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1656"><tspan
+             x="0 11.25 22.5"
+             y="0"
+             id="tspan1654">게시판</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1658">
+      <g
+         id="g1660"
+         clip-path="url(#clipPath1664)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1283.48,537.75)"
+           style="font-variant:normal;font-weight:normal;font-size:11.275px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1668"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1666">이동</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1670">
+      <g
+         id="g1672"
+         clip-path="url(#clipPath1676)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1096.63,521.97)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1680"><tspan
+             x="0 5.9962502 11.23875 22.48875"
+             y="0"
+             id="tspan1678">S/W </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1682">
+      <g
+         id="g1684"
+         clip-path="url(#clipPath1688)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1122.88,521.97)"
+           style="font-variant:normal;font-weight:bold;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1692"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1690">정보</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1694">
+      <g
+         id="g1696"
+         clip-path="url(#clipPath1700)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1148.4,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1704"><tspan
+             x="0 2.2497499"
+             y="0"
+             id="tspan1702">: </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1706">
+      <g
+         id="g1708"
+         clip-path="url(#clipPath1712)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1155.15,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1716"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1714">현재</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1718">
+      <g
+         id="g1720"
+         clip-path="url(#clipPath1724)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1180.65,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1728"><tspan
+             x="0 11.275 22.549999"
+             y="0"
+             id="tspan1726">설치된</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1730">
+      <g
+         id="g1732"
+         clip-path="url(#clipPath1736)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1217.42,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1740"><tspan
+             x="0 6.0002499"
+             y="0"
+             id="tspan1738">EG</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1742">
+      <g
+         id="g1744"
+         clip-path="url(#clipPath1748)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1231.68,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1752"><tspan
+             x="0"
+             y="0"
+             id="tspan1750">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1754">
+      <g
+         id="g1756"
+         clip-path="url(#clipPath1760)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1236.2,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1764"><tspan
+             x="0 6.73875 9.7425003"
+             y="0"
+             id="tspan1762">BIM</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1766">
+      <g
+         id="g1768"
+         clip-path="url(#clipPath1772)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1256.45,521.97)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1776"><tspan
+             x="0"
+             y="0"
+             id="tspan1774">의</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1778">
+      <g
+         id="g1780"
+         clip-path="url(#clipPath1784)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1154.4,506.2)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1788"><tspan
+             x="0 11.25 22.5 33.75"
+             y="0"
+             id="tspan1786">라이선스</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1790">
+      <g
+         id="g1792"
+         clip-path="url(#clipPath1796)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1202.43,506.2)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1800"><tspan
+             x="0"
+             y="0"
+             id="tspan1798">및</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1802">
+      <g
+         id="g1804"
+         clip-path="url(#clipPath1808)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1217.42,506.2)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1812"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1810">버전</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1814">
+      <g
+         id="g1816"
+         clip-path="url(#clipPath1820)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1243.7,506.2)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1824"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1822">정보</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1826">
+      <g
+         id="g1828"
+         clip-path="url(#clipPath1832)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1269.2,506.2)"
+           style="font-variant:normal;font-weight:normal;font-size:11.25px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1836"><tspan
+             x="0 11.25"
+             y="0"
+             id="tspan1834">확인</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 1089.38,488.62 142.3,-0.02"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1838" />
+    <path
+       d="m 1084.99,491.89 -0.11,97.24"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1840" />
+    <g
+       id="g1842">
+      <g
+         id="g1844"
+         clip-path="url(#clipPath1848)">
+        <path
+           d="m 1089.38,488.62 c -2.49,0 -4.5,1.68 -4.5,3.75"
+           style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1850" />
+      </g>
+    </g>
+    <path
+       d="m 1081.88,586.13 c 0,1.65 1.34,3 3,3 1.65,0 3,-1.35 3,-3 0,-1.66 -1.35,-3 -3,-3 -1.66,0 -3,1.34 -3,3 z"
+       style="fill:#c00000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1852" />
+    <path
+       d="m 1081.88,586.13 c 0,1.65 1.34,3 3,3 1.65,0 3,-1.35 3,-3 0,-1.66 -1.35,-3 -3,-3 -1.66,0 -3,1.34 -3,3 z"
+       style="fill:none;stroke:#000000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1854" />
+    <path
+       d="m 1221.38,488.25 c 0,6.42 5.2,11.62 11.62,11.62 h 50.25 c 6.42,0 11.63,-5.2 11.63,-11.62 v 0 c 0,-6.42 -5.21,-11.63 -11.63,-11.63 H 1233 c -6.42,0 -11.62,5.21 -11.62,11.63 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1856" />
+    <path
+       d="m 1221.38,488.25 c 0,6.42 5.2,11.62 11.62,11.62 h 50.25 c 6.42,0 11.63,-5.2 11.63,-11.62 v 0 c 0,-6.42 -5.21,-11.63 -11.63,-11.63 H 1233 c -6.42,0 -11.62,5.21 -11.62,11.63 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1858" />
+    <g
+       id="g1860">
+      <g
+         id="g1862"
+         clip-path="url(#clipPath1866)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,1232.67,483.02)"
+           style="font-variant:normal;font-weight:bold;font-size:12.775px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1870"><tspan
+             x="0 12.775 25.549999 38.325001"
+             y="0"
+             id="tspan1868">궁금하면</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 469.5,452.25 h 41.25 V 478.5 H 469.5 Z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1872" />
+    <g
+       id="g1874">
+      <path
+         d="m 469.88,452.62 h 41.25 v 25.5 h -41.25 z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:2.2522, 0.75075;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1876" />
+    </g>
+    <path
+       d="M 466.7,465.37 H 451.13"
+       style="fill:none;stroke:#d3655a;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1878" />
+    <g
+       id="g1880">
+      <g
+         id="g1882"
+         clip-path="url(#clipPath1886)">
+        <path
+           d="m 468.38,461.62 c -2.08,0 -3.75,1.68 -3.75,3.75 0,2.08 1.67,3.75 3.75,3.75 2.07,0 3.75,-1.67 3.75,-3.75 0,-2.07 -1.68,-3.75 -3.75,-3.75 z"
+           style="fill:#c00000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path1888" />
+      </g>
+    </g>
+    <g
+       id="g1890">
+      <g
+         id="g1892"
+         clip-path="url(#clipPath1896)">
+        <path
+           d="m 468.38,461.62 c -2.08,0 -3.75,1.68 -3.75,3.75 0,2.08 1.67,3.75 3.75,3.75 2.07,0 3.75,-1.67 3.75,-3.75 0,-2.07 -1.68,-3.75 -3.75,-3.75 z"
+           style="fill:none;stroke:#000000;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path1898" />
+      </g>
+    </g>
+    <path
+       d="m 377.63,463.87 c 0,6.22 5.03,11.25 11.25,11.25 h 50.25 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.25 -11.25,-11.25 h -50.25 c -6.22,0 -11.25,5.04 -11.25,11.25 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1900" />
+    <path
+       d="m 377.63,463.87 c 0,6.22 5.03,11.25 11.25,11.25 h 50.25 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.25 -11.25,-11.25 h -50.25 c -6.22,0 -11.25,5.04 -11.25,11.25 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1902" />
+    <g
+       id="g1904">
+      <g
+         id="g1906"
+         clip-path="url(#clipPath1910)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,388.08,458.75)"
+           style="font-variant:normal;font-weight:bold;font-size:12.75px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1914"><tspan
+             x="0 12.775 25.549999 38.325001"
+             y="0"
+             id="tspan1912">열린파일</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 817.13,355.12 c 0,6.22 5.03,11.25 11.25,11.25 h 51 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.24 -11.25,-11.24 h -51 c -6.22,0 -11.25,5.03 -11.25,11.24 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1916" />
+    <path
+       d="m 817.13,355.12 c 0,6.22 5.03,11.25 11.25,11.25 h 51 c 6.21,0 11.25,-5.03 11.25,-11.25 v 0 c 0,-6.21 -5.04,-11.24 -11.25,-11.24 h -51 c -6.22,0 -11.25,5.03 -11.25,11.24 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1918" />
+    <g
+       id="g1920">
+      <g
+         id="g1922"
+         clip-path="url(#clipPath1926)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,828.05,349.58)"
+           style="font-variant:normal;font-weight:bold;font-size:12.775px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1930"><tspan
+             x="0 12.775 25.549999 38.325001"
+             y="0"
+             id="tspan1928">미리보기</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 511.13,744 c 0,6.42 5.2,11.63 11.62,11.63 H 600 c 6.42,0 11.63,-5.21 11.63,-11.63 v 0 c 0,-6.42 -5.21,-11.62 -11.63,-11.62 h -77.25 c -6.42,0 -11.62,5.2 -11.62,11.62 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path1932" />
+    <path
+       d="m 511.13,744 c 0,6.42 5.2,11.63 11.62,11.63 H 600 c 6.42,0 11.63,-5.21 11.63,-11.63 v 0 c 0,-6.42 -5.21,-11.62 -11.63,-11.62 h -77.25 c -6.42,0 -11.62,5.2 -11.62,11.62 z"
+       style="fill:none;stroke:#c10e00;stroke-width:0.75075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path1934" />
+    <g
+       id="g1936">
+      <g
+         id="g1938"
+         clip-path="url(#clipPath1942)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,520.5,738.97)"
+           style="font-variant:normal;font-weight:bold;font-size:12.775px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1946"><tspan
+             x="0 12.775 25.549999 38.325001"
+             y="0"
+             id="tspan1944">다른파일</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1948">
+      <g
+         id="g1950"
+         clip-path="url(#clipPath1954)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,576.8,738.97)"
+           style="font-variant:normal;font-weight:bold;font-size:12.775px;font-family:'맑은 고딕';-inkscape-font-specification:'맑은 고딕 Bold';writing-mode:lr-tb;fill:#c10e00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1958"><tspan
+             x="0 12.75"
+             y="0"
+             id="tspan1956">열기</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
