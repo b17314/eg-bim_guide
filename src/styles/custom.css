@@ -9,5 +9,5 @@ img[alt$="emoji"] {
   display: inline-block;
   width: 1.3em;
   height: 1.3em;
-  vertical-align: -.1em;
+  vertical-align: -.3em;
 }
