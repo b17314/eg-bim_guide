@@ -13,3 +13,5 @@ import { Icon } from '@astrojs/starlight/components';
 
 [**<Icon name="youtube" class="emoji"/> 시연 영상 보기**]()
 <Image src={image5} alt="" width={400} />
+
+![image alt emoji][image7]
