@@ -78,6 +78,7 @@ span {
   --text-brown200: #d4cbbd;
 
   /* green COLOR */
+
   --gra-green-bg: linear-gradient(
     180deg,
     #0f3227 5%,
@@ -236,11 +237,10 @@ span {
 /* content */
 .wrap {
   width: 100%;
-  min-width: 1450px;
-  min-height: 900px;
   height: 100vh;
   background-color: #eee8e2;
   display: flex;
+  overflow: hidden;
 }
 .lnb {
   position: relative;
@@ -250,7 +250,7 @@ span {
   width: 100%;
   height: 100vh;
   padding: 10px 60px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .group_list_wrap {

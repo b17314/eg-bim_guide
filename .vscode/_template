@@ -1,0 +1,15 @@
+---
+title: CIRCLE 
+---
+import { Image } from 'astro:assets';
+import image2 from '../../../../../assets/images/geometry/linetype/image2.png';
+
+import { Icon } from '@astrojs/starlight/components';
+
+[image1]: ../../../../../assets/images/geometry/rectangle/image1.png
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+[**<Icon name="youtube" class="emoji"/> 시연 영상 보기**]()
+<Image src={image5} alt="" width={400} />
