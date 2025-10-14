@@ -42,15 +42,7 @@ export default defineConfig({
 				},
 				{
 					label: '명령어',
-					items:[
-						{
-							label: '시스템',
-							autogenerate: {directory: '/commands/system'}
-						},
-						{
-							label: '도형',
-							autogenerate: {directory: '/commands/geometry'}
-						}],
+					autogenerate: { directory: 'commands' },
 				},
 			],
 			plugins: [
