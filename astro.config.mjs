@@ -43,6 +43,7 @@ export default defineConfig({
 				{
 					label: '명령어',
 					autogenerate: { directory: 'commands' },
+					collapsed: true
 				},
 			],
 			plugins: [
